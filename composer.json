@@ -1,1 +1,13 @@
-
+{
+  "name": "fformula/sum",
+  "description": "A simple sum function",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "VEV Server",
+      "email": "formulist@gmail.com"
+    }
+  ],
+  "require": {}
+}
